@@ -11,7 +11,7 @@ Este projeto reúne modelos e ferramentas práticas voltadas à otimização de 
 - Modelo de **Controle de Contas a Receber**
 - Dashboard em **Power BI**
 - Planilha de **Inadimplência com fórmulas automatizadas**
-- *Automação simples com Python** para envio de cobranças (exemplo)
+- **Automação simples com Python** para envio de cobranças (exemplo)
 - Checklists e fluxogramas de processos financeiros
 - Documentação explicando a lógica de cada ferramenta
 
